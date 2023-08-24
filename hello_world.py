@@ -1,0 +1,5 @@
+print()
+print("This is my first python program")
+print("Hi")
+print(24 * 3)
+print(20/3)
